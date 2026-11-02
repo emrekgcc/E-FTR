@@ -4,6 +4,8 @@ E-FTR, hastalar ile sağlık profesyonellerinin mesajlarını, paylaşılan dosy
 
 Projeyi geliştiren: **Emre Küçükgöçer**
 
+GitHub deposu: [emrekgcc/E-FTR](https://github.com/emrekgcc/E-FTR) (özel)
+
 Sivas Cumhuriyet Üniversitesi Bilgisayar Mühendisliği
 
 Öğrenci numarası: 2023123044
@@ -40,6 +42,6 @@ Davet kodu, kimlik doğrulamanın yerine geçmez. Arayüzde bir düğmeyi gizlem
 
 ## Geliştirme ve sürüm takibi
 
-Her geliştirme turunda ilgili kontroller ve mevcut testler çalıştırılır. Anlamlı değişiklikler açıklayıcı bir commit ile kaydedilir ve GitHub bağlantısı kurulduktan sonra `origin` deposuna gönderilir. Gönderim sonucu ayrıca doğrulanır. Test veya gönderim başarısızsa çalışma kaydında açıkça belirtilir.
+Her geliştirme turunda ilgili kontroller ve mevcut testler çalıştırılır. Anlamlı değişiklikler açıklayıcı bir commit ile kaydedilir ve `origin` deposuna gönderilir. Gönderimden sonra yerel ve uzak dalın aynı commit'e işaret ettiği doğrulanır. Test veya gönderim başarısızsa çalışma kaydında açıkça belirtilir.
 
 Gerçek hasta verileri, parolalar, servis hesabı anahtarları ve yerel ortam dosyaları bu depoya eklenmez. Kurulum ve çalıştırma komutları, uygulama iskeleti oluşturulduğunda bu dosyaya eklenecektir.

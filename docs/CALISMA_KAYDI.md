@@ -8,6 +8,14 @@
 - Gizli anahtarlar, yerel ayarlar ve gerçek hasta verileri için `.gitignore` eklendi.
 - Bu aşamada uygulama kodu veya çalışır Firebase bağlantısı bulunmuyor.
 
-Doğrulama: Word belgesinin kaynakla birebir aynı olduğu SHA-256 özetiyle doğrulandı. Ortam dosyaları, gizli anahtar klasörü, hasta verisi ve derleme çıktılarının Git tarafından dışarıda bırakıldığı kontrol edildi. İlk yerel commit `56d17b3` ile oluşturuldu. GitHub hesabı bu sohbete henüz bağlanmadığı için uzak depo ve gönderim yapılmadı.
+Doğrulama: Word belgesinin kaynakla birebir aynı olduğu SHA-256 özetiyle doğrulandı. Ortam dosyaları, gizli anahtar klasörü, hasta verisi ve derleme çıktılarının Git tarafından dışarıda bırakıldığı kontrol edildi. İlk yerel commit `56d17b3` ile oluşturuldu.
 
-Sonraki geliştirme: Flutter iskeleti ve örnek verilerle hasta/uzman ekranları. GitHub bağlantısı ayrı olarak tamamlanacaktır.
+## GitHub bağlantısı
+
+- `emrekgcc/E-FTR` özel GitHub deposu oluşturuldu.
+- Yerel `origin`, `https://github.com/emrekgcc/E-FTR.git` adresine bağlandı.
+- Ana dal `main` olarak kullanılıyor.
+- Her geliştirme turunun sonunda kontrol, commit, push ve uzak commit doğrulaması uygulanacak.
+- Bu adımda uygulama geliştirilmedi; proje belgeleri ve depo ayarları hazırlandı.
+
+Sonraki geliştirme: Flutter iskeleti ve örnek verilerle hasta/uzman ekranları.
