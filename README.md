@@ -10,9 +10,7 @@ Sivas Cumhuriyet Üniversitesi Bilgisayar Mühendisliği
 
 Öğrenci numarası: 2023123044
 
-## Mevcut durum
 
-Bu depo proje belgeleri ve geliştirme kurallarıyla başlatılmıştır. Henüz çalıştırılabilir uygulama kodu bulunmamaktadır. Arayüz ve istemci tarafı geliştirme belgesi hazırlanmıştır. Uygulamanın geliştirilmesine sonraki çalışma turunda başlanacaktır.
 
 ## Planlanan özellikler
 
