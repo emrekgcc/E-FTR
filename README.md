@@ -2,8 +2,10 @@
 
 E-FTR, hastalar ile sağlık profesyonellerinin mesajlarını, paylaşılan dosyaları, egzersizleri ve takip kayıtlarını aynı uygulamada yönetmesi için geliştirilen bir projedir. Bir hasta birden fazla uzmanla çalışabilir; her kliniğin görüşmeleri ve kayıtları ayrı tutulur.
 
-Projeyi geliştiren: **Emre Küçükgöçer**  
-Sivas Cumhuriyet Üniversitesi Bilgisayar Mühendisliği  
+Projeyi geliştiren: **Emre Küçükgöçer**
+
+Sivas Cumhuriyet Üniversitesi Bilgisayar Mühendisliği
+
 Öğrenci numarası: 2023123044
 
 ## Mevcut durum
