@@ -4,13 +4,9 @@ E-FTR, hastalar ile sağlık profesyonellerinin mesajlarını, paylaşılan dosy
 
 Projeyi geliştiren: **Emre Küçükgöçer**
 
-GitHub deposu: [emrekgcc/E-FTR](https://github.com/emrekgcc/E-FTR) (özel)
+GitHub deposu: [emrekgcc/E-FTR](https://github.com/emrekgcc/E-FTR) 
 
 Sivas Cumhuriyet Üniversitesi Bilgisayar Mühendisliği
-
-Öğrenci numarası: 2023123044
-
-
 
 ## Planlanan özellikler
 
