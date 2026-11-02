@@ -1,0 +1,42 @@
+# Flutter ve Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+coverage/
+android/.gradle/
+android/local.properties
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+macos/Flutter/ephemeral/
+
+# Yerel ayarlar ve kimlik bilgileri
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p12
+*.pem
+*service-account*.json
+*serviceAccount*.json
+firebase-adminsdk*.json
+secrets/
+
+# Geliştirme çıktıları
+.idea/
+.vscode/
+*.log
+tmp/
+qa/
+.DS_Store
+Thumbs.db
+~$*
+
+# Gerçek sağlık verileri depoya eklenmez
+patient-data/
+backups/
+exports/
