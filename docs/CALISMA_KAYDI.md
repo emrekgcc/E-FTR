@@ -19,3 +19,10 @@ Doğrulama: Word belgesinin kaynakla birebir aynı olduğu SHA-256 özetiyle do�
 - Bu adımda uygulama geliştirilmedi; proje belgeleri ve depo ayarları hazırlandı.
 
 Sonraki geliştirme: Flutter iskeleti ve örnek verilerle hasta/uzman ekranları.
+
+## Arayüz belgesinin anlatım dili
+
+- Birinci tekil şahıs ifadeleri resmî ve edilgen anlatıma dönüştürüldü.
+- Proje kapsamı, teknik kararlar, tablolar, başlıklar ve biçim ayarları korundu.
+- Belgenin 11 sayfası görsel olarak kontrol edildi. İçindekilerdeki 24 bağlantı korundu.
+- Bu turda uygulama kodunda geliştirme yapılmadı.
